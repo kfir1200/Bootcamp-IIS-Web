@@ -7,7 +7,7 @@ This project is Visual Studio's ASP.NET Web Core App  template
 
 * [Visual Studio with ASP.NET Web Core App](https://visualstudio.microsoft.com/downloads/)
 * IIS
-* [ASP.NET Core Module](https://dotnet.microsoft.com/permalink/dotnetcore-current-windows-runtime-bundle-installer).
+* [ASP.NET Core Module](https://dotnet.microsoft.com/permalink/dotnetcore-current-windows-runtime-bundle-installer)
 
 
 ## How to run this project
