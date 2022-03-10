@@ -1,0 +1,8 @@
+#ignore bin folder
+Bootcamp/bin/
+
+$ignore obj folder
+Bootcamp/obj/
+
+#ignore .vs folder
+/.vs
