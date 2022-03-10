@@ -9,10 +9,10 @@ This project is Visual Studio's ASP.NET Web Core App  template
 * IIS
 
 
-## Install and Configuration
+## How to run this project
 
 1. Clone or download source files.
-2. Open Bootcamp.sln file with visual studio.
+2. Open `Bootcamp.sln` file with visual studio.
 3. Build the solution with visual studio.
 4. In visual studio right click on the project then choose Publish:
 
