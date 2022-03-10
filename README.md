@@ -7,6 +7,7 @@ This project is Visual Studio's ASP.NET Web Core App  template
 
 * [Visual Studio with ASP.NET Web Core App](https://visualstudio.microsoft.com/downloads/)
 * IIS
+* [ASP.NET Core Module](https://dotnet.microsoft.com/permalink/dotnetcore-current-windows-runtime-bundle-installer).
 
 
 ## How to run this project
@@ -33,9 +34,7 @@ This project is Visual Studio's ASP.NET Web Core App  template
 
 10. Choose port and then click OK
 
-11. Install [.NET Core Hosting Bundle](https://dotnet.microsoft.com/permalink/dotnetcore-current-windows-runtime-bundle-installer).
-
-12. On IIS click on "Start" in the "Managr Website" and then browse to your website:
+11. On IIS click on "Start" in the "Managr Website" and then browse to your website:
 
       ![Start_Website](https://user-images.githubusercontent.com/31624835/157652620-69f8a393-5cfa-4201-a6ee-6d73208d68e8.png)
 
