@@ -16,7 +16,7 @@ This project is Visual Studio's ASP.NET Web Core App  template
 2. Open `Bootcamp.sln` file with visual studio.
 3. Choose "Release" from the "Configuration Manager" Pane:
 
-![Release](https://user-images.githubusercontent.com/31624835/157660130-b04cabbf-ae97-48f0-8dab-45382b5b7393.png)
+      ![Release](https://user-images.githubusercontent.com/31624835/157660130-b04cabbf-ae97-48f0-8dab-45382b5b7393.png)
 
 4. Build the solution with visual studio.
 5. In visual studio right click on the project then choose Publish:
@@ -25,7 +25,7 @@ This project is Visual Studio's ASP.NET Web Core App  template
       
 6. Choose Publish to folder: 
 
-![Publish_to_folder](https://user-images.githubusercontent.com/31624835/157659738-e83a62f5-5c29-480e-ad48-f0cdd2d042fe.png)
+      ![Publish_to_folder](https://user-images.githubusercontent.com/31624835/157659738-e83a62f5-5c29-480e-ad48-f0cdd2d042fe.png)
 
 
 7. Create a new folder in `C:\inetpub\wwwroot` with your site name.
