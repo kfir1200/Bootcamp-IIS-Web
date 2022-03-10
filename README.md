@@ -1,7 +1,6 @@
 # ASP.NET Core Web App Project
 
-This project is Visual Studio's ASP.NET Web Core App  template
-
+This project is a Visual Studio ASP.NET Web Core App template that Creates a website on your Microsoft machine and then run the website locally using IIS.
 
 **Requirements:**
 
