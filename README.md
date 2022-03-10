@@ -46,10 +46,3 @@ This project is Visual Studio's ASP.NET Web Core App  template
 13. On IIS click on "Start" in the "Managr Website" and then browse to your website:
 
       ![Start_Website](https://user-images.githubusercontent.com/31624835/157652620-69f8a393-5cfa-4201-a6ee-6d73208d68e8.png)
-
-
-
-
-
-
-
