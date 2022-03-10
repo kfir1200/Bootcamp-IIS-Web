@@ -28,7 +28,7 @@ This project is a Visual Studio ASP.NET Web Core App template that Creates a web
 
 
 7. Create a new folder in `C:\inetpub\wwwroot` with your site name.
-8.  Copy the files from your project publish directoy, `yourprojectdir\bin\Release\net6.0\publish` to the folder yo've created in step 5.
+8.  Copy the files from your project publish directoy, `yourprojectdir\bin\Release\net6.0\publish` to the folder you've created in step 5.
 
 9. open IIS, right click on "Sites" and then choose "Add Website":
 
@@ -36,7 +36,7 @@ This project is a Visual Studio ASP.NET Web Core App template that Creates a web
      
 10. Enter Site name, choose Application pool
 
-11. In "Physical path" choose the folder you created on step 6, for exmaple:
+11. In "Physical path" choose the folder you created on step 7, for exmaple:
 
       ![Create_New_site](https://user-images.githubusercontent.com/31624835/157650033-0d98407e-767b-4a53-bf7d-a4ff9a85b598.png)
 
